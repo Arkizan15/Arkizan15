@@ -12,15 +12,4 @@ Hello! I'm Arkizan15, a passionate student with a love for technology and self-g
 
 ---
 
-## 🎯 Interests & Hobbies
-
-- 💻 Programming
-- 🏀 Basketball
-- 📚 Reading
-- 🏋️‍♂️ Gym/Fitness
-
----
-
-
-
 > “Always be curious about how something works, World is meant to be explored.”
