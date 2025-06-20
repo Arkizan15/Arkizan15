@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Arkizan15! 👋
 
-<!--
-**Arkizan15/Arkizan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at SMKN 1 BANYUWANGI**  
+💻 **Major:** PPLG (Pengembangan Perangkat Lunak dan Gim)  
+🧑‍🎓 **Age:** 16
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Hello! I'm Arkizan15, a passionate student with a love for technology and self-growth. Currently diving deep into software and game development at SMKN 1 BANYUWANGI. Always excited to learn new things and take on interesting challenges!
+
+---
+
+## 🎯 Interests & Hobbies
+
+- 💻 Programming
+- 🏀 Basketball
+- 📚 Reading
+- 🏋️‍♂️ Gym/Fitness
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out or explore my repositories. I love collaborating and connecting with fellow learners and developers!
+
+---
+
+> “The future belongs to those who believe in the beauty of their dreams.”
