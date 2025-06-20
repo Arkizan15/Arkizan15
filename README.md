@@ -21,10 +21,6 @@ Hello! I'm Arkizan15, a passionate student with a love for technology and self-g
 
 ---
 
-## 📫 Let's Connect!
 
-Feel free to reach out or explore my repositories. I love collaborating and connecting with fellow learners and developers!
 
----
-
-> “The future belongs to those who believe in the beauty of their dreams.”
+> “Always be curious about how something works, World is meant to be explored.”
