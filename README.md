@@ -15,18 +15,17 @@ Always excited to learn new things and take on interesting challenges!
 ---
 
 ## 💫 About Me  
-🔭 **Currently working on:** *Belum Kepikiran Project* (placeholder 👀)  
-🌱 **Currently learning:** `C# for Unity`, `Java`, and `Pixel Art`  
-🗺️ **Exploring:** Unity · Blender · Aseprite  
-🎮 **Honkai: Star Rail Enthusiast**  
-⚡ **Fun fact:** Sleepy ahh person & kinda autistic (self-diagnosed)  
-💍 **Favorites:** Sparkle · Castorice · Cyrene  
+🔭 **Currently working on:** *something :p*  
+🌱 **Currently learning:** `Javascript`, `PHP`, and `Laravel`  
+🗺️ **Exploring:** Laravel, React and Tailwind  
+🎮 **Indie Story Game Enthusiast**  
 
 ---
 
 ## 🌐 Socials  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)  
-*(tambahkan link ke akun kamu 👆)*
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/936867054294814730)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arkizan15/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
 
 ---
 
