@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-Hello! I'm **Arkizan15**, a passionate student with a love for technology and self-growth.  
+Hello! I'm **Arkan Rifqy Fauzan**,but most people call me **Kiki**, a passionate student with a love for technology and self-growth.  
 Currently diving deep into **software, game, and IoT development** at SMKN 1 BANYUWANGI.  
 Always excited to learn new things and take on interesting challenges!  
 
