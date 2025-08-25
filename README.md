@@ -1,4 +1,4 @@
-# Hi there, I'm Arkizan15! 👋  
+# Hi there, I'm Arkan Rifqy Fauzan! 👋  
 🎓 Student at **SMKN 1 BANYUWANGI**  
 💻 Major: **PPLG (Pengembangan Perangkat Lunak dan Gim)**  
 🧑‍🎓 Age: **16**
