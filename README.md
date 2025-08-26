@@ -17,7 +17,7 @@ Always excited to learn new things and take on interesting challenges!
 ## 💫 About Me  
 🔭 **Currently working on:** *something :p*  
 🌱 **Currently learning:** `Javascript`, `PHP`, and `Laravel`  
-🗺️ **Exploring:** Laravel, React and Tailwind  
+🗺️ **Exploring:** Fullstack development  
 🎮 **Indie Story Game Enthusiast**  
 
 ---
