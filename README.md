@@ -11,7 +11,7 @@
 ## 🙋‍♂️ About Me
 
 ```javascript
-const arkan = {
+let arkan = {
     name: "Arkan Rifqy Fauzan",
     nickname: "Kiki",
     age: 17,
