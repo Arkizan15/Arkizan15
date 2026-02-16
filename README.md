@@ -71,12 +71,11 @@ let arkan = {
 
 <div align="center">
   
-![Arkizan15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkizan15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Arkizan15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Arkan's%20GitHub%20Stats" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkizan15&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkizan15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -121,10 +120,7 @@ let arkan = {
 
 ---
 
-<div align="center">
-
-### 💭 Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="left">
 
 ### ✨ Profile Views
 ![](https://komarev.com/ghpvc/?username=Arkizan15&color=blueviolet&style=for-the-badge)
